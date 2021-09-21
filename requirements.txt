@@ -1,3 +1,4 @@
 dvc
-'dvc[gdrive]'
+dvc[gdrive]
 sklearn
+pandas
